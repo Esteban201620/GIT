@@ -26,6 +26,9 @@ Aprendiendo a usar Git
   
   ## git commit
   ("i" en Linea de Comandos GIT despues de el commit para insertar una descripcion del commit), luego "esc" y ":wq" para salir de   la nueva interfaz de linea de comandos.
+ 
+ ## git reset HEAD~Numero de commits que se desean deshacer
+ Sirve para deshacer un numero n de commits.
 
   # git commit -m "descripción del comit"
   Otra forma de hacer commit
