@@ -62,7 +62,7 @@ Aprendiendo a usar Git
   ## git clone URL_REPO_CLONAR
   Sirve para clonar en nuestro pc un repositorio que hay en github
   
-  ## or push an existing repository from the command line
+  ## o enviar un repositorio existente desde la línea de comandos
 - git remote add origin URL_DEL_REPOSITORIO_AL_QUE_VAMOS_A_SUBIR_NUESTRO_PROYECTO
 - git branch -M main
 - git push -u origin main
