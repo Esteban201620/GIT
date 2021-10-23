@@ -63,6 +63,6 @@ Aprendiendo a usar Git
   Sirve para clonar en nuestro pc un repositorio que hay en github
   
   ## or push an existing repository from the command line
-git remote add origin https://github.com/Esteban201620/Git.git
-git branch -M main
-git push -u origin main
+- git remote add origin URL_DEL_REPOSITORIO_AL_QUE_VAMOS_A_SUBIR_NUESTRO_PROYECTO
+- git branch -M main
+- git push -u origin main
