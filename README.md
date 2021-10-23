@@ -49,6 +49,9 @@ Aprendiendo a usar Git
   
   ## git branch NOMBRE_DE_LA_RAMA
   Sirve para crear una nueva rama del proyecto
+ 
+ ## git checkout -b nueva_rama
+ Crea nueva rama y nos lleva automaticamente a ella
   
   ## git checkout NOMBRE_DE_LA_RAMA
   Sirve para pasarnos a la rama "NOMBRE_DE_LA_RAMA"
@@ -66,3 +69,4 @@ Aprendiendo a usar Git
 - git remote add origin URL_DEL_REPOSITORIO_AL_QUE_VAMOS_A_SUBIR_NUESTRO_PROYECTO
 - git branch -M main
 - git push -u origin main
+
